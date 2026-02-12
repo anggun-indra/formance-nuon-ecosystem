@@ -43,7 +43,7 @@ graph TD
 Formance Ledger adalah standar industri untuk sistem keuangan modern.
 - **Battle-Tested:** Digunakan oleh berbagai platform fintech dunia untuk mengelola jutaan transaksi.
 - **Pendanaan Kuat:** Baru saja mendapatkan pendanaan **Seri A sebesar $21 Juta** pada tahun 2025.
-- **Bukti Pendanaan:** [Formance Secures $21M Series A for Ledger-as-a-Service Platform](https://www.formance.com/blog/formance-series-a-funding)
+- **Baru dapat funding (sepertinya menjanjikan) :** [Formance Secures $21M Series A for Ledger-as-a-Service Platform](https://www.formance.com/blog/company/formance-secures-21-million-dollar-in-series-a-funding-co-led-by-paypal-ventures-and-portage-ventures-to-expand-its-open-source-financial-infrastructure)
 
 ---
 *Dokumen ini diperbarui berdasarkan RFI Sistem Manajemen Kredit/Pembayaran MRTJ.*
