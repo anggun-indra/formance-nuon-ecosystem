@@ -8,7 +8,7 @@ Formance Ledger bertindak sebagai **Source of Truth (Pusat Kebenaran)** untuk se
 ```mermaid
 graph TD
     User((User)) -->|Tap RFID/QR| AFC[Mesin AFC / Gate MRTJ]
-    User -->|Top-up/Cek Saldo| Wallet[Nuon Wallet App]
+    User -->|Top-up/Cek Saldo| Wallet[Nuon Wallet App / Widget / Api Wallet]
 
     subgraph "Integration Layer (Nuon Service - To be Developed)"
         API[API Gateway / Business Logic]
